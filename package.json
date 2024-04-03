@@ -1,0 +1,30 @@
+{
+  "name": "carlwallet0-generator",
+  "version": "0.0.1",
+  "description": "ETH Wallet Generator",
+  "author": "CarlHanson <raderhsn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node wallet-generate.js"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "web3": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NFTmask/carlwallet0-generator.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "generate",
+    "wallet",
+    "eip",
+    "Ethereum",
+    "eth"
+  ],
+  "homepage": "https://www.youtube.com/channel/UCZYl5SZGxSwgciqPr9sSbyQ"
+}
